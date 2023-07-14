@@ -1,4 +1,4 @@
-#Validate main address
+--Validate main address
 
 CREATE OR REPLACE FUNCTION validate_new_address()
 RETURNS TRIGGER AS '
